@@ -1,2 +1,2 @@
 # FolderGuider
-Automatically suggest the right folder for new files based on historical action
+Automatically suggest the right folder for newly dowloaded files based on historical action
